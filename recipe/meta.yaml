@@ -1,4 +1,4 @@
-{% set version = "0.10.5" %}
+{% set version = "0.11.0" %}
 
 package:
   name: bblean
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/b/bblean/bblean-{{ version }}.tar.gz
-  sha256: 69f7859b0544ef36e88be1c8e6a8b70580b1215858aacac7db8aa5ec7a9992a0
+  sha256: 75eb1943b611c59305b2ab15a1db1e7d164c5be924f767148cab965cde405110
 
 build:
   entry_points:
