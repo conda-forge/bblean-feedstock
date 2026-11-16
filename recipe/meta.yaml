@@ -32,7 +32,6 @@ requirements:
     - setuptools-scm >=9
     - pybind11
     - wheel
-    - tomli
     - pip
   run:
     - python
